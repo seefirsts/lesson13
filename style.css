@@ -1,0 +1,16 @@
+
+/* Set background color */
+body {
+  background-color: lightblue; /* You can change this color to whatever you prefer */
+}
+
+/* Align images to the right */
+img {
+  float: right;
+  margin-left: 20px; /* Add some space between text and images */
+}
+
+/* Change text color */
+h1, h3, p {
+  color: navy; /* You can change this color to whatever you prefer */
+}
